@@ -19,5 +19,5 @@ inicio
       limpatela
    ate (repet = "n")
    
-   escreva ("OBRIGADOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO")
+   escreva ("OBRIGADO")
 fimalgoritmo
